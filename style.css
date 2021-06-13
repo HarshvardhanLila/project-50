@@ -11,24 +11,26 @@
 .grid
 {
     display:flex;
-    flex-wrap:wrap; 
+    flex-flow:wrap;
+
+    
     
 
 }
 .origami
 {
-   
+
     border-radius: 20px;
     background-color:blanchedalmond;
 
-    width:310px;
+    width:450x;
     font-family: fantasy;
 
 }
 .bodyimg
 {   
     display: flex;
-    justify-content:center;
+    
     background-color: black;
    
     border-color: black;
